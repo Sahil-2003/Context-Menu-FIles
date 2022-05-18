@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item
+            android:id="@+id/open"
+            android:title="Open">
+        </item><item
+        android:id="@+id/read"
+            android:title="Open in read mode">
+        </item><item
+            android:id="@+id/write"
+            android:title="Open in write mode">
+        </item><item
+            android:id="@+id/edit"
+            android:title="Edit">
+        </item><item
+            android:id="@+id/openWith"
+            android:title="Open with">
+        </item><item
+            android:id="@+id/delete"
+            android:title="Delete">
+        </item><item
+            android:id="@+id/cut"
+            android:title="Cut">
+        </item><item
+            android:id="@+id/copy"
+            android:title="Copy">
+        </item><item
+            android:id="@+id/paste"
+            android:title="Paste">
+        </item>
+
+
+</menu>
